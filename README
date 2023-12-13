@@ -1,1 +1,4 @@
-Calculator I built in python, might not be the most convenient thing but I think it's cool 
+# execute as follows: python "C:\Users\UserNameHere\Download\Calculator.py" without the notes. if you're in your downloads directory already then simply write: Calculator.py
+
+# the path above in "" double quotes may vary based on some certain factors such as your drive letter and make sure to change UserNameHere
+# to your username or it will not run. 
