@@ -7,7 +7,7 @@ import time
 
 def calc(clear):  # Main input to select the operator you want to use to calculate numbers. 
     opchoose = input(''' 
-    Chai's Calculator! - Yes, this is created by Chai himself.
+    
 
     /---------------------"
     |_____________________|
