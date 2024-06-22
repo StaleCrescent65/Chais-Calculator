@@ -12,7 +12,7 @@ def calc(clear):  # Main input to select the operator you want to use to calcula
     /---------------------"
     |_____________________|
     |  _________________  |     Choose an operator to begin!
-    | | Chai           06 |      
+    | |                 | |      
     | |_________________| |     
     |  ___ ___ ___   ___  |     1, +
     | | 7 | 8 | 9 | | + | |     2, -
